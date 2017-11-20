@@ -1,0 +1,37 @@
+#heading1 {
+    height: auto;
+    color: black;
+    alignment:center;
+    text-align: center;
+    margin-top: 1px;
+}
+
+
+.breathVertical {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.breathHorizontal {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#line1 {
+    width: 80%;
+    height: 2px;
+    background-color: black;
+    color: #FF0066;
+    border: 0 none;
+    margin: 20px auto;
+    border-color: black;
+    alignment: center;
+}
+
+#save_button {
+    background-color: steelblue;
+    width: 170px;
+    height: auto;
+    padding: 5px;
+}
+
